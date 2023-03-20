@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou estudando Ciencia da Computacao na Universidade Tiradentes
 - 🌱 Estou aprendendo linguagens de programacao Java e Js
-- 😄 Pronouns: ele/dele
+- 😄 Ele/dele
 
 <<div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
